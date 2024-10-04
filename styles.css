@@ -18,9 +18,13 @@ h1 {
   text-align: center;
 }
 p {
-  margin: 1em auto;
+  margin: 0.5em auto;
   text-align: center;
   font-style: italic; 
+}
+.interests {
+    margin: 1em auto;
+    text-algin: center;
 }
 form {
   padding: 20px;
