@@ -11,15 +11,15 @@ body {
   min-height: 100vh;
 }
 h1 {
-  margin: 1em auto 0.5em auto;
+  margin: 1em auto 0.5em auto; /* Reduce bottom margin */
   text-align: center;
 }
 p {
-  margin: 1em auto;
+  margin: 0.5em auto; /* Adjust top margin to match */
   text-align: center;
   font-style: italic; 
 }
-.interests {
+p1 {
   margin: 1em auto;
   text-align: center;
 }
