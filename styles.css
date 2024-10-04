@@ -1,58 +1,73 @@
 body {
-  font-family: tahoma, sans-serif;
-  font-size: 16px;
-  color: white;
-  margin: 0;
-  padding: 0;
-  background: linear-gradient(to bottom right, #8DBBCC, #006884);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  min-height: 100vh;
+    font-family: tahoma, sans-serif;
+    font-size: 16px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #8DBBCC, #006884);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
 }
+
 h1 {
-  margin: 1em auto 0.5em auto; /* Reduce bottom margin */
-  text-align: center;
+    margin: 1em auto 0.5em auto;
+    text-align: center;
 }
+
 p {
-  margin: 0.5em auto; /* Adjust top margin to match */
-  text-align: center;
-  font-style: italic; 
+    margin: 0.5em auto;
+    text-align: center;
+    font-style: italic; 
 }
-.current-role.interests {
-  margin: 1em auto;
-  text-align: center;
+
+.current-role,
+.interests {
+    margin: 1em auto;
+    text-align: center;
 }
+
 form {
-  padding: 20px;
-  border-radius: 5px; 
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
-  width: 300px;
-  display: flex;
-  flex-direction: column;
+    padding: 20px;
+    border-radius: 5px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    display: flex;
+    flex-direction: column;
 }
+
 label {
-  margin:10px 0 5px 0;
+    margin: 10px 0 5px 0;
 }
-input[type="text"], input[type="email"], input[type="number"], select,textarea {
-  width: 100%;
-  padding: 8px;
-  margin: 5px 0 10px 0;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
-input[type="radio"], input[type="checkbox"] {
-  margin-right: 10px;
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-right: 10px;
 }
+
 button {
-  background-color: #4A6378;
-  color: white;
-  padding: 10px;
-  border: 1px solid #4A6399;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
+    background-color: #4A6378;
+    color: white;
+    padding: 10px;
+    border: 1px solid #4A6399;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
 }
+
 button:hover {
-  background-color: #4A6378;
+    background-color: #4A6378;
 }
