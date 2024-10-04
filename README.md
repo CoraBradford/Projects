@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Survey Form is a user-friendly tool designed to collect valuable feedback from users. Whether you’re a business seeking to improve services or a researcher gathering insights, this form makes it easy to gather and organize responses. By providing a clean and intuitive interface, it encourages users to share their thoughts, ultimately helping you make informed decisions based on real user input.
+This Survey Form is a user-friendly tool designed to collect valuable feedback from users. Whether you’re a business seeking to improve services or a researcher gathering insights, this form makes it easy to gather and organize responses. By providing a clean and intuitive interface, it encourages users to share their thoughts, ultimately helping you make informed decisions based on real user input.
 
 ## Code Samples
 
