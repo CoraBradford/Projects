@@ -14,7 +14,7 @@ h1 {
   margin: 1em auto 0.5em auto; /* Reduce bottom margin */
   text-align: center;
 }
-#description {
+p {
   margin: 0.5em auto; /* Adjust top margin to match */
   text-align: center;
   font-style: italic; 
